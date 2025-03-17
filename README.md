@@ -22,12 +22,6 @@ The application uses a simple but effective technique to hide messages:
 3. The image remains perfectly viewable in any image viewer
 4. The message can only be read by those who know it's there
 
-## Installation
-
-### Windows Users (Recommended)
-1. Download the latest release of "Dr. Mythic Steganography.exe" from the [Releases](../../releases) page
-2. Run the executable - no installation required!
-
 ### From Source Code
 If you prefer to run from source code or are using another operating system:
 
